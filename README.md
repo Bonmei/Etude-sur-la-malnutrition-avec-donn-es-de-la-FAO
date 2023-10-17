@@ -30,13 +30,13 @@ Donnez une courte liste de pays à cibler, en présentant leurs caractéristique
 
 # Visualisez vos partitions dans le premier plan factoriel obtenu par ACP.
 
-Dans votre partition, vous avez obtenu des groupes distincts. Vérifiez donc qu'ils diffèrent réellement. Pour cela, réalisez les tests statistiques suivants :
+Dans votre partition, vous avez obtenu des groupes distincts. Vérifiez donc qu'ils diffèrent réellement. Pour cela, réalisez les tests statistiques suivants :  
 
 un test d'adéquation : parmi les 4 variables, ou parmi d'autres variables que vous trouverez pertinentes, trouvez une variable dont la loi est normale ;
 un test de comparaison de deux populations (dans le cas gaussien) : choisissez 2 clusters parmi ceux que vous aurez déterminé. Sur ces 2 clusters, testez la variable gaussienne grâce à un test de comparaison.
 
 # Compétences Evaluées
 
-Construire et lire un dendogramme
-Tester l'adéquation à une loi par un test statistique
-Interpréter une ACP
+Construire et lire un dendogramme  
+Tester l'adéquation à une loi par un test statistique  
+Interpréter une ACP  
